@@ -203,16 +203,14 @@ xena-ra-url  ===  http://127.0.0.1:60696
 
 xena-sensi-url  ===  http://127.0.0.1:60699
 
-### WHOAMI? ###
-
-Zarkones. Software developer with an accent on back-end services.
-Current solutions are overpriced, when it comes to red-team software.
-I wish to understand the topic and share my knowledge in a appropriate manner.
-
-Social links:
-1. [YouTube](https://www.youtube.com/channel/UCn-7I-L-ZpiELb8-6z7z_Ug)
-2. [Medium](https://medium.com/@zarkones)
-3. [GitHub](https://github.com/zarkones)
-4. [Reddit](https://www.reddit.com/r/xenarat)
-5. [Twitter](https://twitter.com/zarkones)
-6. [Gettr](https://gettr.com/user/zarkones)
+Install
+apt install nano
+apt install git
+apt install python
+apt install python2
+apt install python3
+git clone https://github.com/h4ckti2/XENA
+cd XENA
+64 linux
+bash setup_linux_64bit.sh
+32 linux setup_linux_32bit.sh
